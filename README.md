@@ -3,6 +3,8 @@ Fundamentals of machine learning
 
 ## Getting started
 
+Make sure you have Python 3.x installed.
+
 ### Clone repository
 ```
 $ git clone https://github.com/taylorletsoaka/scikit-learn.git
