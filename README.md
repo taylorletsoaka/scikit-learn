@@ -12,7 +12,12 @@ $ git clone https://github.com/taylorletsoaka/scikit-learn.git
 ### Create a virtual environment
 ```
 $ pip3 install virtualenv
-$ virtualenv venv
+$ virtualenv venv # create a virtual environment named venv
+```
+
+Activate your virtual environment
+
+```
 $ source venv/bin/activate # unix
 $ venv\Scripts\activate # Windows
 $ source venv\Scripts\activate # Windows if you have git bash installed
