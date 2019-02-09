@@ -13,7 +13,7 @@ $ pip3 install virtualenv
 $ virtualenv venv
 $ source venv/bin/activate # unix
 $ venv\Scripts\activate # Windows
-$ venv\Scripts\activate # Windows if you have git bash installed
+$ source venv\Scripts\activate # Windows if you have git bash installed
 ```
 ### Install Jupyter notebook
 
